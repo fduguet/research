@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Florent DUGUET research work
 
-You can use the [editor on GitHub](https://github.com/fduguet/research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Research Gate](https://www.researchgate.net/profile/Florent-Duguet)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Papers
 
-### Markdown
+##### Robust Epsilon Visibility
+ACM Transactions on Graphics
+[DOI](http://dx.doi.org/10.1145/566570.566618)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Talks
 
-```markdown
-Syntax highlighted code block
+##### Java Image Processing: How Runtime Compilation Transforms Memory-Bound into Compute-Bound
+GPU Technology Conference 2016 - (S6314)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Tech reports
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fduguet/research/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
